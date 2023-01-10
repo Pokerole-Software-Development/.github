@@ -7,7 +7,8 @@ Pokemon is owned by Nintendo and all contained projects are fanmade.
 ## Key Repositories
 ​
 - **Pokerole Data** is a JSON based data store that contains programmatically accessible data from the book. This include Pokedex entries, Move names, Images and more. This repo is not of interest to casual visitors, it's a development tool other projects are based on.
-- **Obsidian SRD** this is a vault for [Obsidian(https://obsidian.md/), a markdown based knowledge store application alot like Onenote. This SRD contains all the data in Pokerole Data built into the vault to support a GM as they run the game. 
+- **Obsidian SRD** this is a vault for [Obsidian(https://obsidian.md/), a markdown based knowledge store application alot like Onenote. This SRD contains all the data in Pokerole Data built into the vault to support a GM as they run the game.
+- **foundry-pokerole** this is a system implementation for Pokerole in [Foundry Virtual Tabletop](https://foundryvtt.com/).
 ​
 ## Contact
 ​
